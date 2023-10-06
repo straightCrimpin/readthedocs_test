@@ -1,10 +1,11 @@
 Sets
-=====
+====
 
 .. _Early Game:
 
 Early Game
 ------------
+
 .. table:: Early Game Sets
    :widths: auto
    :header-rows: 1

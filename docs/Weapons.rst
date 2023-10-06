@@ -1,10 +1,11 @@
 Weapons
-=====
+=======
 
 .. _Early Game:
 
 Early Game
-------------
+----------
+
 .. table:: Early Game Weapons
    :widths: auto
    :header-rows: 1
@@ -18,10 +19,7 @@ Early Game
           :height: 200px
           :width: 200 px
           :scale: 100 %
-          :align: Center
-
-
-
+          :align: center
 
 .. _Mid Game:
 
