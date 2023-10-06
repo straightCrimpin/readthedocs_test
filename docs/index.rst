@@ -22,8 +22,8 @@ Contents
 .. toctree::
 
    Home <self>
-   Getting Started/index
-   Boss Tiers/index
-   Sets/index
-   Weapons/index
-   Omegadex/index
+   Getting Started
+   Boss Tiers
+   Sets
+   Weapons
+   Omegadex
