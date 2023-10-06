@@ -6,10 +6,8 @@ Omegadex
 Basilisk
 --------
 
-.. role:: _notoc
-
-:title: Basilisk Information
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Basilisk Information
+^^^^^^^^^^^^^^^^^^^^
 
 - Name: Basilisk
 - Base Health: 2750
@@ -17,8 +15,8 @@ Basilisk
 - Rarity Group Number: 3
 - Paragon Shard Value: 8
 
-:title: Hybrid Information
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Hybrid Information
+^^^^^^^^^^^^^^^^^^
 
 - Basilisk + Featherlight = Featherlisk
 
@@ -27,16 +25,16 @@ Basilisk
 - Unique Health Multiplier: 8
 - Unique Damage Multiplier: 8
 
-:title: Food Types
-^^^^^^^^^^^^^^^^^^
+Food Types
+^^^^^^^^^^
 
 - Raw Meat
 - Cooked Meat
 - Cooked Prime Meat
 - Raw Prime Meat
 
-:title: Saddle Information
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Saddle Information
+^^^^^^^^^^^^^^^^^^
 
 .. image:: images/Saddles/basiliskunique.png
    :alt: Basilisk Unique Saddle
