@@ -52,7 +52,7 @@ master_doc = 'Readme'
 # HTML theme options. You can customize these settings as needed.
 html_theme = 'alabaster'
 html_theme_options = {
-    'logo': './images/logo/generic_logo.png',  # Path to your project's logo
+    'logo': 'https://github.com/straightCrimpin/readthedocs_test/blob/main/docs/images/logo/generic_logo.png',  # Path to your project's logo
     'github_user': 'straightCrimpin',  # GitHub username
     'github_repo': 'readthedocs_test',  # GitHub repository name
     'github_banner': True,
