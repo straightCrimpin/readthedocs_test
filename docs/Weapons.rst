@@ -1,13 +1,13 @@
 Weapons
 =======
 
-.. _Early Game:
+.. _Weapon Early Game:
 
 Early Game
 ----------
 
 .. list-table:: Early Game Weapons
-   :widths: 25, 25, 100
+   :widths: 25, 25, 500
    :header-rows: 1
 
    * - Name
@@ -21,12 +21,12 @@ Early Game
           :scale: 100 %
           :align: center
 
-.. _Mid Game:
+.. _Weapon Mid Game:
 
 Mid Game
 ------------
 
-.. _Late Game:
+.. _Weapon Late Game:
 
 Late Game
 ------------

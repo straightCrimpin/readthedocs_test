@@ -1,13 +1,13 @@
 Sets
 ====
 
-.. _Early Game:
+.. _Set Early Game:
 
 Early Game
 ------------
 
 .. list-table:: Early Game Sets
-   :widths: auto
+   :widths: 25, 25, 500
    :header-rows: 1
 
    * - Name
@@ -23,12 +23,12 @@ Early Game
 
 
 
-.. _Mid Game:
+.. _Set Mid Game:
 
 Mid Game
 ------------
 
-.. _Late Game:
+.. _Set Late Game:
 
 Late Game
 ------------
