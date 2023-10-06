@@ -1,11 +1,35 @@
-Page 1
+Sets
 =====
 
-There is nothing here other than
+.. _Early Game:
 
-.. _Dinos:
+Early Game
+------------
+.. table:: Early Game Sets
+   :widths: auto
+   :header-rows: 1
 
-Saddling Your Dinos
+   * - Name
+     - Variant
+     - Description
+   * - Olympian
+     - Mythical
+     - .. image:: images/Sets/Olympian/chest.png
+          :height: 200px
+          :width: 200 px
+          :scale: 100 %
+          :align: Center
+
+
+
+.. _Mid Game:
+
+Mid Game
 ------------
 
-Dinos have unique and legendary saddles! Egads!
+.. _Late Game:
+
+Late Game
+------------
+
+Late Game Weapons have not yet been added.

@@ -1,11 +1,37 @@
-Page 1
+Omegadex
 =====
 
-There is nothing here other than
+.. _Basilisk:
 
-.. _Dinos:
+Basilisk Information
+--------------------
 
-Saddling Your Dinos
-------------
+Name: Basilisk
+Base Health: 2750
+Base Damage: 55
+Rarity Group Number: 3
+Paragon Shard Value: 8
 
-Dinos have unique and legendary saddles! Egads!
+Hybrid Information
+------------------
+
+Basilisk + Featherlight = Featherlisk
+
+Unique Name: Medusa
+Unique Variants: Gorgon / Banshee
+Unique Health Multiplier: 8
+Unique Damage Multiplier: 8
+
+Food Types
+----------
+
+- Raw Meat
+- Cooked Meat
+- Cooked Prime Meat
+- Raw Prime Meat
+
+Saddle Information
+------------------
+
+.. image:: images/Saddles/basiliskunique.png
+   :alt: Basilisk Unique Saddle

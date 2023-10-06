@@ -22,7 +22,6 @@ Contents
 .. toctree::
 
    Home <self>
-   Page1
    Getting Started
    Boss Tiers
    Sets

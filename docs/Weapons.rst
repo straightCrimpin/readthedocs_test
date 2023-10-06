@@ -14,7 +14,7 @@ Early Game
      - Description
    * - Hades Torch
      - Mythical
-     - .. image:: images/weapons/hadestorch.png
+     - .. image:: images/Weapons/hadestorch.png
           :height: 200px
           :width: 200 px
           :scale: 100 %
