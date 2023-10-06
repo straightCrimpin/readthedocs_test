@@ -7,7 +7,7 @@ Early Game
 ----------
 
 .. list-table:: Early Game Weapons
-   :widths: auto
+   :widths: 25, 25, 100
    :header-rows: 1
 
    * - Name
