@@ -1,104 +1,63 @@
-# -*- coding: utf-8 -*-
+# Configuration file for the Sphinx documentation builder.
 #
-# Configuration file for Sphinx documentation builder.
-#
-# This file does only contain a selection of the most common options. For a
-# full list see the documentation:
-# http://www.sphinx-doc.org/en/stable/config.html
+# This file only contains a selection of the most common options. For a full
+# list see the documentation:
+# https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 # -- Path setup --------------------------------------------------------------
 
-import os
-import sys
+# If extensions (or modules to document with autodoc) are in another directory,
+# add these directories to sys.path here. If the directory is relative to the
+# documentation root, use os.path.abspath to make it absolute, like shown here.
+#
+# import os
+# import sys
+# sys.path.insert(0, os.path.abspath('.'))
 
-# Add your project's root directory to the sys.path.
-sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Read The Docs test for straightCrimpin'
-copyright = 'Copyright © 2023, StraightCrimpin'
-author = 'StraightCrimpin'
+project = "A Copy of Basic Sphinx Example Project"
+copyright = "2022, Read the Docs core team, edited by StraightCrimpin"
+author = "Read the Docs core team"
 
-# The version info for the project you're documenting, acts as replacement for
-# |version| and |release|, also used in various other places throughout the
-# built documents.
-#
-# The short X.Y version.
-version = '1.0'
-# The full version, including alpha/beta/rc tags.
-release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
+# -- General configuration
 
-# Add any Sphinx extension module names here, as strings.
 extensions = [
-    'sphinx.ext.autodoc',  # Include docstrings from your code
-    'sphinx.ext.napoleon',  # Support Google-style docstrings
-    'sphinx.ext.viewcode',  # Add links to source code
+    "sphinx.ext.duration",
+    "sphinx.ext.doctest",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
+    "sphinx.ext.intersphinx",
 ]
 
-# Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+intersphinx_mapping = {
+    "rtd": ("https://docs.readthedocs.io/en/stable/", None),
+    "python": ("https://docs.python.org/3/", None),
+    "sphinx": ("https://www.sphinx-doc.org/en/master/", None),
+}
+intersphinx_disabled_domains = ["std"]
 
-# The suffix(es) of source filenames.
-source_suffix = '.rst'
+templates_path = ["_templates"]
 
-# The master toctree document.
-master_doc = 'Readme'
+# -- Options for EPUB output
+epub_show_urls = "footnote"
+
+# List of patterns, relative to source directory, that match files and
+# directories to ignore when looking for source files.
+# This pattern also affects html_static_path and html_extra_path.
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 # -- Options for HTML output -------------------------------------------------
 
-# HTML theme options. You can customize these settings as needed.
-html_theme = 'alabaster'
-html_theme_options = {
-    'logo': 'https://github.com/straightCrimpin/readthedocs_test/blob/main/docs/images/logo/generic_logo.png',  # Path to your project's logo
-    'github_user': 'straightCrimpin',  # GitHub username
-    'github_repo': 'readthedocs_test',  # GitHub repository name
-    'github_banner': True,
-    'github_button': True,
-    'show_powered_by': False,
-    'show_related': False,
-}
+# The theme to use for HTML and HTML Help pages.  See the documentation for
+# a list of builtin themes.
+#
+html_theme = "sphinx_rtd_theme"
 
-# -- Options for LaTeX output ------------------------------------------------
-
-latex_elements = {}
-
-# -- Options for manual page output ------------------------------------------
-
-man_pages = [
-    (master_doc, 'mydocumentation', 'My Documentation', [author], 1)
-]
-
-# -- Options for Texinfo output ----------------------------------------------
-
-texinfo_documents = [
-    (master_doc, 'MyDocumentation', 'My Documentation',
-     author, 'MyDocumentation', 'One line description of project.',
-     'Miscellaneous'),
-]
-
-# -- Extension configuration -------------------------------------------------
-
-# If you have autodoc-based documentation, you can configure options here.
-
-# If you use napoleon for Google-style docstrings, configure its options here.
-napoleon_google_docstring = False
-napoleon_numpy_docstring = True
-
-# -- Additional custom configuration ----------------------------------------
-
-# Add custom CSS or JavaScript files to your documentation.
-# html_static_path = ['_static']
-
-# Specify additional files and directories to copy to the output build directory.
-# html_extra_path = ['extrafiles']
-
-# Define a list of directories to be searched for Sphinx extensions.
-# sys.path.append(os.path.abspath('_ext'))
-
-# -- Options for linkcheck builder ------------------------------------------
-
-# Use linkcheck to verify that external links in your documentation are valid.
-# linkcheck_ignore = [r'http://localhost:\d+']
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+html_static_path = ["_static"]

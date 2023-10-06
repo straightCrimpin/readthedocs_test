@@ -1,15 +1,16 @@
-.. include:: ./Readme.rst
+.. image:: https://github.com/straightCrimpin/readthedocs_test/blob/main/docs/images/logo/OmegaLogo.png
+   :height: 200px
+   :width: 200 px
+   :scale: 100 %
+   :align: Left
 
-Welcome to Lumache's documentation!
+ARK Offline Omegadex!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Omegadex** Is your one-stop-shop for all information in Ark Omega
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`Page 1` section for further information, including
+how to saddle your :ref:`Dinos`.
 
 .. note::
 
@@ -21,4 +22,4 @@ Contents
 .. toctree::
 
    Home <self>
-   Page 1 <Page1.rst>
+   Page 1
