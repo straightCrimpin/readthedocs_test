@@ -21,5 +21,4 @@ Contents
 .. toctree::
 
    Home <self>
-   usage
-   api
+   Page 1 <./page1.rst>
