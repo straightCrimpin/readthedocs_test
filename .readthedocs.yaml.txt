@@ -1,0 +1,26 @@
+version: 3
+
+# Build environment and dependencies
+build:
+  image: latest
+
+# Documentation build configuration
+sphinx:
+  configuration: docs/conf.py
+
+# Required Python version
+python:
+  version: 3.7
+
+# Documentation versions and formats
+formats: all
+
+# Main page content
+submodules:
+  main:
+    path: /
+    repository: https://github.com/straightCrimpin/readthedocs_test.git
+    programming_language: 'python'
+    main: true
+    versions:
+      - latest
