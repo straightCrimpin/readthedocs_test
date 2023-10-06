@@ -37,4 +37,3 @@ Saddle Information
 ^^^^^^^^^^^^^^^^^^
 
 .. image:: images/Saddles/basiliskunique.png
-   :alt: Basilisk Unique Saddle

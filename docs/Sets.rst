@@ -6,20 +6,17 @@ Sets
 Early Game
 ------------
 
-.. list-table:: Early Game Sets
-   :widths: 25, 25, 500
-   :header-rows: 1
+Olympian
+^^^^^^^^
 
-   * - Name
-     - Variant
-     - Description
-   * - Olympian
-     - Mythical
-     - .. image:: images/Sets/Olympian/chest.png
-          :height: 200px
-          :width: 200 px
-          :scale: 100 %
-          :align: Center
+Chest
++++++
+
+.. image:: images/Sets/Olympian/chest.png
+   :height: 200px
+   :width: 200 px
+   :scale: 100 %
+   :align: Center
 
 
 
