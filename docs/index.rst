@@ -21,4 +21,4 @@ Contents
 .. toctree::
 
    Home <self>
-   Page 1 <./page1.rst>
+   Page 1 <Page1.rst>
