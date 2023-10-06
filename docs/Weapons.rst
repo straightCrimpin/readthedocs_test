@@ -6,14 +6,18 @@ Weapons
 Early Game
 ----------
 
-Hades Torch
-^^^^^^^^^^^
+.. list-table:: Early Game Weapons
+   :widths: auto
+   :header-rows: 1
 
-.. image:: images/Weapons/hadestorch.png
-   :height: 200px
-   :width: 200 px
-   :scale: 100 %
-   :align: center
+   * - Name
+     - Variant
+     - Description
+   * - Hades Torch
+     - Mythical
+     - .. image:: images/Weapons/hadestorch.png
+          :scale: 100 %
+          :align: center
 
 .. _Weapon Mid Game:
 
