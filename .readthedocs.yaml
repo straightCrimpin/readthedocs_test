@@ -14,13 +14,3 @@ python:
 
 # Documentation versions and formats
 formats: all
-
-# Main page content
-submodules:
-  main:
-    path: /
-    repository: https://github.com/straightCrimpin/readthedocs_test.git
-    programming_language: 'python'
-    main: true
-    versions:
-      - latest
