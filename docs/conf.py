@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "A Copy of Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team, edited by StraightCrimpin"
-author = "Read the Docs core team"
+project = "ARK Omega: Omegadex Offline"
+copyright = "2023, StraightCrimpin"
+author = "Original Author: HexenLord"
 
 
 # -- General configuration ---------------------------------------------------
