@@ -1,4 +1,4 @@
-.. include:: ../Readme.md
+.. include:: ./Readme.rst
 
 Welcome to Lumache's documentation!
 ===================================
