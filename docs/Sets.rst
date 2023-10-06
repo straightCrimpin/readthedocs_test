@@ -6,7 +6,7 @@ Sets
 Early Game
 ------------
 
-.. table:: Early Game Sets
+.. list-table:: Early Game Sets
    :widths: auto
    :header-rows: 1
 

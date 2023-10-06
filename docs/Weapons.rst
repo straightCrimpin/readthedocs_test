@@ -6,7 +6,7 @@ Weapons
 Early Game
 ----------
 
-.. table:: Early Game Weapons
+.. list-table:: Early Game Weapons
    :widths: auto
    :header-rows: 1
 
