@@ -1,4 +1,4 @@
-.. image:: https://github.com/straightCrimpin/readthedocs_test/blob/main/docs/images/logo/OmegaLogo.png
+.. image:: images/logo/OmegaLogo.png
    :height: 200px
    :width: 200 px
    :scale: 100 %
@@ -22,4 +22,4 @@ Contents
 .. toctree::
 
    Home <self>
-   Page 1
+   Page1
