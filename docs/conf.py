@@ -18,7 +18,6 @@
 # -- Project information -----------------------------------------------------
 
 project = "ARK Omega: Omegadex Offline"
-copyright = "2023, StraightCrimpin"
 author = "Original Author: HexenLord"
 
 
