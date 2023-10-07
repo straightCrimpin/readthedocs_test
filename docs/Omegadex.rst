@@ -36,4 +36,4 @@ Food Types
 Saddle Information
 ^^^^^^^^^^^^^^^^^^
 
-.. image:: images/Saddles/basiliskunique.png
+.. image:: images/Saddles/basilisk.png
