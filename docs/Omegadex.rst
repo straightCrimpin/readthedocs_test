@@ -28,12 +28,12 @@ Hybrid Information
 Food Types
 ^^^^^^^^^^
 
-- .. image:: https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/e/e9/Raw_Meat.png/revision/latest?cb=20150704150605
+- .. |raw_meat_icon| image:: https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/e/e9/Raw_Meat.png/revision/latest?cb=20150704150605
    :height: 20px
    :width: 20px
    :align: middle
 
-Raw Meat
+|raw_meat_icon| Raw Meat
 - Cooked Meat
 - Cooked Prime Meat
 - Raw Prime Meat
