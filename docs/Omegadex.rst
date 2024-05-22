@@ -42,8 +42,8 @@ Saddle Information
        * - Saddle Image
          - Unique Bonuses
        * - .. figure:: images/Saddles/basilisk.png
-              :height: 214 px
-              :width: 483 px
+              :height: 214px
+              :width: 483px
               :scale: 100 %
 
              My Spaghetti Tastes Really Bad, And Is Moving.              
