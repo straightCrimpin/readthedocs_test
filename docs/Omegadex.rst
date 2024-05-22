@@ -35,6 +35,8 @@ Food Types
 Saddle Information
 ^^^^^^^^^^^^^^^^^^
 
+|BasiliskSaddle| is a saddle
+
 .. table:: Basilisk
    :widths: auto
 
