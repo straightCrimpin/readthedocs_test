@@ -37,22 +37,21 @@ Saddle Information
 
 .. container:: side-by-side-container
 
-    .. figure:: images/Saddles/basilisk.png
+    .. image:: images/Saddles/basilisk.png
        :scale: 100 %
        :class: figure
 
-       ..
+    .. table:: Basilisk
+       :widths: auto
+       :align: left
+       :class: table
 
-       +-----------------------------------------------+
-       |                    Basilisk                   |
-       +===============================================+
-       | Gains Pygmy Variant                           |
-       +-----------------------------------------------+
-       | Applies Stoned Debuff with Melee Attacks      |
-       +-----------------------------------------------+
-       | Heals for 1% of Damage Dealt                  |
-       +-----------------------------------------------+
-       | 50% Damage Reduction                          |
-       +-----------------------------------------------+
-       | Gains Pack Bonus up to 12                     |
-       +-----------------------------------------------+
+       ======================
+           Unique Bonuses
+       ======================
+       Gains Pygmy Variant
+       Applies Stoned Debuff with Melee Attacks
+       Heals for 1% of Damage Dealt
+       50% Damage Reduction
+       Gains Pack Bonus up to 12
+       ======================
