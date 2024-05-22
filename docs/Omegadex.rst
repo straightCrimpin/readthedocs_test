@@ -39,7 +39,7 @@ Saddle Information
 
     .. image:: images/Saddles/basilisk.png
        :scale: 100 %
-       :class: figure
+       :class: image
 
     .. table:: Basilisk
        :widths: auto
