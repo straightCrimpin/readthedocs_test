@@ -36,14 +36,14 @@ Saddle Information
 ^^^^^^^^^^^^^^^^^^
 
     .. list-table:: Basilisk
-       :widths: 25 75
+       :widths: 75 75
        :header-rows: 1
 
        * - Saddle Image
          - Unique Bonuses
        * - .. image:: images/Saddles/basilisk.png
-             :scale: 25 %
-         - * My Spaghetti Tastes Really Bad, And Is Moving.
+             :scale: 100 %
+         - My Spaghetti Tastes Really Bad, And Is Moving.
            * Gains Pygmy Variant
            * Applies Stoned Debuff with Melee Attacks
            * Heals for 1% of Damage Dealt
