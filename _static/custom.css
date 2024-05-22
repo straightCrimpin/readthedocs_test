@@ -1,0 +1,12 @@
+/* custom.css */
+.side-by-side-container {
+    display: flex;
+    align-items: flex-start;
+}
+.side-by-side-container .figure {
+    flex: 1;
+}
+.side-by-side-container .table {
+    flex: 1;
+    margin-left: 20px; /* Adjust spacing between figure and table */
+}
