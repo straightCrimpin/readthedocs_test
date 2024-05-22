@@ -35,23 +35,18 @@ Food Types
 Saddle Information
 ^^^^^^^^^^^^^^^^^^
 
-.. |BasiliskSaddle|    image:: images/Saddles/basilisk.png
-   :align: left
-
-|BasiliskSaddle| is a saddle
-
 .. table:: Basilisk
    :widths: auto
 
-+------------------+--------------------------------------------------+
-| Saddle Image     | Unique Bonuses                                   |
-+==================+==================================================+
-| |BasiliskSaddle| | | My Spaghetti Tastes Really Bad, And Is Moving. |
-|                  | |                                                |
-|                  | | **Unique Bonuses:**                            |
-|                  | | - Gains Pygmy Variant                          |
-|                  | | - Applies Stoned Debuff with Melee Attacks     |
-|                  | | - Heals for 1% of Damage Dealt                 |
-|                  | | - 50% Damage Reduction                         |
-|                  | | - Gains Pack Bonus up to 12                    |
-+------------------+--------------------------------------------------+
++-----------------------------------------+--------------------------------------------------+
+| Saddle Image                            | Unique Bonuses                                   |
++=========================================+==================================================+
+| .. image:: images/Saddles/basilisk.png  | | My Spaghetti Tastes Really Bad, And Is Moving. |
+|                                         | |                                                |
+|                                         | | **Unique Bonuses:**                            |
+|                                         | | - Gains Pygmy Variant                          |
+|                                         | | - Applies Stoned Debuff with Melee Attacks     |
+|                                         | | - Heals for 1% of Damage Dealt                 |
+|                                         | | - 50% Damage Reduction                         |
+|                                         | | - Gains Pack Bonus up to 12                    |
++------------------+-------------------------------------------------------------------------+
