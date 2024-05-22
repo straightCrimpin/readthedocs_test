@@ -38,6 +38,8 @@ Saddle Information
 .. figure:: images/Saddles/basilisk.png
    :scale: 100 %
 
+   ".."
+
    +-----------------------+-----------------------+
    |                    Basilisk                   |
    +=======================+=======================+
