@@ -35,21 +35,23 @@ Food Types
 Saddle Information
 ^^^^^^^^^^^^^^^^^^
 
-.. figure:: images/Saddles/basilisk.png
-   :scale: 100 %
+.. container:: side-by-side-container
 
-   ..
+    .. figure:: images/Saddles/basilisk.png
+       :scale: 100 %
+       :class: figure
 
-   +-----------------------------------------------+
-   |                    Basilisk                   |
-   +===============================================+
-   | Gains Pygmy Variant                           |
-   +-----------------------------------------------+
-   | Applies Stoned Debuff with Melee Attacks      |
-   +-----------------------------------------------+
-   | Heals for 1% of Damage Dealt                  |
-   +-----------------------------------------------+
-   | 50% Damage Reduction                          |
-   +-----------------------------------------------+
-   | Gains Pack Bonus up to 12                     |
-   +-----------------------------------------------+
+    .. container:: table
+       +-----------------------------------------------+
+       |                    Basilisk                   |
+       +===============================================+
+       | Gains Pygmy Variant                           |
+       +-----------------------------------------------+
+       | Applies Stoned Debuff with Melee Attacks      |
+       +-----------------------------------------------+
+       | Heals for 1% of Damage Dealt                  |
+       +-----------------------------------------------+
+       | 50% Damage Reduction                          |
+       +-----------------------------------------------+
+       | Gains Pack Bonus up to 12                     |
+       +-----------------------------------------------+
