@@ -43,7 +43,7 @@ Saddle Information
          - Unique Bonuses
        * - .. figure:: images/Saddles/basilisk.png
 
-                       My Spaghetti Tastes Really Bad, And Is Moving.      
+              My Spaghetti Tastes Really Bad, And Is Moving. And bonus text to see if we can get the image to be any bigger.
          - * Gains Pygmy Variant
            * Applies Stoned Debuff with Melee Attacks
            * Heals for 1% of Damage Dealt
