@@ -36,7 +36,7 @@ Saddle Information
 ^^^^^^^^^^^^^^^^^^
 
     .. list-table:: Basilisk
-       :widths: 125 75
+       :widths: 85 15
        :header-rows: 1
 
        * - Saddle Image
