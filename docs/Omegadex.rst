@@ -35,6 +35,9 @@ Food Types
 Saddle Information
 ^^^^^^^^^^^^^^^^^^
 
+.. |BasiliskSaddle|    image:: images/Saddles/basilisk.png
+   :align: left
+
 |BasiliskSaddle| is a saddle
 
 .. table:: Basilisk
@@ -52,10 +55,3 @@ Saddle Information
 |                  | | - 50% Damage Reduction                         |
 |                  | | - Gains Pack Bonus up to 12                    |
 +------------------+--------------------------------------------------+
-
-
-.. |BasiliskSaddle|    image:: images/Saddles/basilisk.png
-   :align: left
-
-.. |nbsp| unicode:: 0x00A0
-   :trim:
