@@ -35,28 +35,18 @@ Food Types
 Saddle Information
 ^^^^^^^^^^^^^^^^^^
 
-.. raw:: html
+.. table:: |BasiliskSaddle|
+   :widths: auto
 
-   <div class="side-by-side">
-       <img src="images/Saddles/basilisk.png" alt="Basilisk" />
-       <table>
-           <tr>
-               <th colspan="1">Basilisk</th>
-           </tr>
-           <tr>
-               <td>Gains Pygmy Variant</td>
-           </tr>
-           <tr>
-               <td>Applies Stoned Debuff with Melee Attacks</td>
-           </tr>
-           <tr>
-               <td>Heals for 1% of Damage Dealt</td>
-           </tr>
-           <tr>
-               <td>50% Damage Reduction</td>
-           </tr>
-           <tr>
-               <td>Gains Pack Bonus up to 12</td>
-           </tr>
-       </table>
-   </div>
+   ====================
+      Unique Bonuses
+   ====================
+   Gains Pygmy Variant
+   Applies Stoned Debuff with Melee Attacks
+   Heals for 1% of Damage Dealt
+   50% Damage Reduction
+   Gains Pack Bonus up to 12
+   ====================
+
+.. |BasiliskSaddle|    image:: images/Saddles/basilisk.png
+   :align: left
