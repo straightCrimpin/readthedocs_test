@@ -41,7 +41,6 @@ Saddle Information
        :scale: 100 %
        :class: figure
 
-    .. container:: table
        +-----------------------------------------------+
        |                    Basilisk                   |
        +===============================================+
